@@ -1,4 +1,4 @@
-module github.com/TermiusOne/xerrors
+module github.com/gadavy/xerrors
 
 go 1.13
 
